@@ -1,0 +1,4 @@
+interface:
+  display_name: "Use Subagents"
+  short_description: "Orkestreer via zichtbare Codex-taken"
+  default_prompt: "Gebruik $use-subagents om dit werk op te delen in zichtbare Codex-taken en gecontroleerd af te ronden."
